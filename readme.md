@@ -28,9 +28,9 @@ Welcome to the **Blog Management API**! This application is a RESTful API built 
 ## Folder Structure
 
 ├── controllers/  
-│ └── blogController.js # Handles business logic for blogs  
+│ └── blogControllers.js # Handles business logic for blogs  
 ├── models/  
-│ └── blogModel.js # Defines blog schema and model  
+│ └── Blog.js # Defines blog schema and model  
 ├── routes/  
 │ └── blogRoutes.js # Routes for blog-related endpoints  
 ├── utils/  
